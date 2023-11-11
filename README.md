@@ -12,3 +12,14 @@ Webhook Tool
 3.Open a Cmd in the folder and put the command : pip install -r requirements.txt
 
 4.Launch HZZHOOK-3.exe
+
+
+# Features 🛠️
+### HZZHOOK-3 can do plenty of things, like:
+- Spam Webhook
+- Delete Webhook
+- Test Webhook
+- Copy Server
+- Light Switcher
+- Groupe Spammer | Request of spectators
+
